@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
 
+
 <br><br>
 
 
@@ -26,34 +27,35 @@
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
 
 
-
-
-
-
-
-<!--Confidentiality Statement-->
-
 <br><br>
 
-#
-
-### ⚠️ Heads Up
-
-- [Whenever possible](), projects and deliverables developed during the course will be made [publicly accessible]().  
-
-- The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.  
-
-- All activities and materials will strictly adhere to the [**academic and ethical guidelines of PUC-SP**](). Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+<!--Confidentiality statement -->
 
 #
 
 <br><br><br>
 
+> [!IMPORTANT]
+> 
+> ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+>
+
+
+<br><br>
+
+#
+
+<!--END-->
 
 
 
 
-
+<br><br><br><br>
 
 ## Table of Contents
 
