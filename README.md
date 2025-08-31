@@ -1,6 +1,9 @@
-
-
 <br>
+
+**\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]**
+
+<br><br>
+
 
 
 #  <p align="center"> [Specialized Consulting for Integrated Project: Data Mining - Main Repository]()
@@ -54,8 +57,8 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 
 
 
-
 <br><br><br><br>
+
 
 ## Table of Contents
 
