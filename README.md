@@ -127,21 +127,21 @@ Enable students to **plan, conduct, and complete a research project** applying k
 
 | [Week]() | [Repos]() | [Methodology]() | [Tools]() |
 |------|-------|-------------|-------|
-| 1    | [Course introduction](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/d737ff164c6b4d6e580d5ba6e95c54ac604f7ea4/class_1-Introduction) | Active methodology | – |
-| 2–3 | [Review of statistical methods](https://github.com/Quantum-Software-Development/class_2-and-3-intro-data-mining-python) | Active methodology | Python |
-| 4 | [Fundamentals of Data Mining](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python |
-| 5–6 | Data cleaning and preparation | Active methodology | Python |
-| 7 | Predictive analysis | Active methodology | Python |
+| 1     | [Course introduction](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/d737ff164c6b4d6e580d5ba6e95c54ac604f7ea4/class_1-Introduction) | Active methodology | – |
+| 2–3   | [Statistical Review](https://github.com/Quantum-Software-Development/2-3-DataMining_Statistical_Review) | Active methodology | Python |
+| 4     | [Fundamentals of Data Mining](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python |
+| 5–6   | Data cleaning and preparation | Active methodology | Python |
+| 7     | Predictive analysis | Active methodology | Python |
 | 8, 10 | Clustering techniques | Active methodology | Python |
-| 9 | **P1 Exam** | Written (Individual) | – |
-| 11 | K-Means algorithm | Active methodology | Python |
-| 12 | Affinity Propagation | Active methodology | Python |
-| 13 | Mean-Shift algorithm | Active methodology | Python |
-| 14 | Principal Component Analysis (PCA) | Active methodology | Python |
-| 15 | Dictionary Learning | Active methodology | Python |
-| 16 | **P2 Exam** | Written (Individual) | – |
-| 17 | **P3 Exam & Grade Closure** | Written (Individual) | – |
-| 18 | Final grade submission | – | – |
+| 9     |  **P1 Exam** | Written (Individual) | – |
+| 11    | K-Means algorithm | Active methodology | Python |
+| 12    | Affinity Propagation | Active methodology | Python |
+| 13    | Mean-Shift algorithm | Active methodology | Python |
+| 14    | Principal Component Analysis (PCA) | Active methodology | Python |
+| 15    | Dictionary Learning | Active methodology | Python |
+| 16    | **P2 Exam** | Written (Individual) | – |
+| 17    | **P3 Exam & Grade Closure** | Written (Individual) | – |
+| 18     | Final grade submission | – | – |
 
 
 <br><br>
