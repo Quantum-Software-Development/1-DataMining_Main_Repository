@@ -10,8 +10,7 @@
 
 
 
-<!-- =======================================END DEFAULT HEADER ===========================================  -->
-
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 <br><br>
 
@@ -50,7 +49,47 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 
 #
 
-<!--=======================================-END=============================================================================-->
+<!--END-->
+
+
+
+
+<br><br><br><br>
+
+
+
+<!-- PUC HEADER GIF
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
+-->
+
+
+<!-- video presentation -->
+
+
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
+
+https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
+
+####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+
+
+<br><br>
+
+
+> [!TIP]
+> 
+>  This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
+>
+> Access Data Mining [Main Repository](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)
+> 
+>  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
+>
+>
+
+
+
+<!-- =======================================END DEFAULT HEADER ===========================================  -->
 
 
 <br><br><br><br>
