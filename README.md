@@ -663,7 +663,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-# III - [class_3 - Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_3%20-%20Stats%20Review)
+## III - [class_3 - Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_3%20-%20Stats%20Review)
 
 <br>
 
