@@ -669,7 +669,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
-> [Access]()  Class_3
+> [Access](https://github.com/Quantum-Software-Development/2_3-DataMining_Statistical_Review)  Class_3
 > 
 
 
@@ -683,7 +683,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
-> [Access]()  Class_4
+> [Access](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis)  Class_4
 > 
 
 
@@ -697,7 +697,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
-> [Access]()  Class_5
+> [Access](https://github.com/Quantum-Software-Development/5-DataMining)  Class_5
 > 
 
 
