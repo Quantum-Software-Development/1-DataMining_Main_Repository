@@ -6,18 +6,11 @@
 
 
 
-#  <p align="center"> 1- [Data Mining - Main Repository]()
+#  <p align="center"> 1- [Data Mining]() /  [Main Repository]()
 
 
-<br><br>
 
-#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
- 
-<br><br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
+<!-- =======================================END DEFAULT HEADER ===========================================  -->
 
 
 <br><br>
@@ -28,6 +21,10 @@
 [**Program:**]() Humanistic AI and Data Science
 [**Semester:**]() 2nd Semester 2025  
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
+
+<br><br>
+
+#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
 <br><br>
@@ -53,11 +50,11 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 
 #
 
-<!--END-->
-
+<!--=======================================-END=============================================================================-->
 
 
 <br><br><br><br>
+
 
 
 ## Table of Contents
