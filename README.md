@@ -669,7 +669,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
->
+> [Access]()  Class_3
 > 
 
 
@@ -683,7 +683,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
->
+> [Access]()  Class_4
 > 
 
 
@@ -697,7 +697,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
->
+> [Access]()  Class_5
 > 
 
 
@@ -710,7 +710,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
->
+> [Access]()  Class_6
 > 
 
 
