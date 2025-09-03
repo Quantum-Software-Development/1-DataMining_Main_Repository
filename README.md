@@ -697,7 +697,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
-> [Access](https://github.com/Quantum-Software-Development/5-DataMining)  Class_5
+> [Access](https://github.com/Quantum-Software-Development/5-DataMining_DataCleaning_Preparation_Anomalies_Outlier)  Class_5
 > 
 
 
@@ -710,7 +710,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 > [!TIP]
 > 
-> [Access](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing/edit/main/README.md)  Class_6
+> [Access](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing)  Class_6
 > 
 
 
