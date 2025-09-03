@@ -161,7 +161,7 @@ Enable students to **plan, conduct, and complete a research project** applying k
 
 <br><br>
 
-
+Statistic Review - Stats Measures - Mean - Median - Mode - Variance]()
 
 ##  [Weekly Schedule]()
 
@@ -170,7 +170,8 @@ Enable students to **plan, conduct, and complete a research project** applying k
 | [Week]() | [Repos]() | [Methodology]() | [Tools]() |
 |------|-------|-------------|-------|
 | 1     | [Course introduction](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/d737ff164c6b4d6e580d5ba6e95c54ac604f7ea4/class_1-Introduction) | Active methodology | – |
-| 2–3   | [Statistical Review](https://github.com/Quantum-Software-Development/2-3-DataMining_Statistical_Review) | Active methodology | Python |
+| 2  | [Statistical Review  - Stats Measures - Mean - Median - Mode - Variance](https://github.com/Quantum-Software-Development/2-DataMining_Statistical_Measures) | Active methodology | Python |
+| 3  | [Statistical Review - Variation Measures and Standard Deviation](https://github.com/Quantum-Software-Development/3-DataMining_VariationMeasures_Standard-Deviation) | Active methodology | Python |
 | 4     | [Data Mining - Concepts - Exploratory Analysis](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python - R |
 | 5   | [Data Cleaning - Preparation - Anomalies (Outliers)](https://github.com/Quantum-Software-Development/5-DataMining_DataCleaning_Preparation_Anomalies_Outlier) | Active methodology | Python |
 | 6     | [Data Mining - Pre Processing](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing) | Active methodology | Python |
