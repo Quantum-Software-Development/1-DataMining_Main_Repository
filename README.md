@@ -755,17 +755,19 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
+<!-- ========================== [Bibliographr ====================  -->
+
+<br><br>
 
 
-##  [Bibliography]()
+## [Bibliography]()
 
-<br>
+[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introduction to Data Mining: Basic Concepts, Algorithms, and Applications*. Saraiva.
 
-### [Basic Bibliography]()
+[2](). **Ferreira, A. C. P. L. et al.** (2024). *Artificial Intelligence – A Machine Learning Approach*. 2nd Ed. LTC.
 
-- CASTRO, L. N. *Introdução a mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva, 2016.  
-- PIRIM, H. *Recent Applications in Data Clustering*. IntechOpen, 2018.  
-- SEN, J. *Machine Learning: Artificial Intelligence*. IntechOpen, 2021.
+[3](). **Larson & Farber** (2015). *Applied Statistics*. Pearson.
+
 
 <br>
 
@@ -777,6 +779,30 @@ Visualizations: Histograms, bar plots, and time series chart.
 - RUSSELL, S. J.; NORVIG, P. *Artificial Intelligence: A Modern Approach*. GEN LTC, 2022.  
 - SUD, K.; ERDOGMUS, P.; KADRY, S. *Introduction to Data Science and Machine Learning*. IntechOpen, 2020.
 
+
+
+
+<br><br>
+
+      
+<!-- ======================================= Bibliography Portugues ===========================================  -->
+
+<!--
+
+## [Bibliography]()
+
+
+[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
+
+[2](). **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+
+[3](). **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
+
+
+<br><br>
+-->
+
+<!-- ======================================= Start Footer ===========================================  -->
 
 
 <br><br>
@@ -822,3 +848,14 @@ Visualizations: Histograms, bar plots, and time series chart.
 #
 
 ###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+
+
+
+
+
+
+
+
+
+
+
