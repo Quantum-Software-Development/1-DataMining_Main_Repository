@@ -171,7 +171,7 @@ Enable students to **plan, conduct, and complete a research project** applying k
 |------|-------|-------------|-------|
 | 1     | [Course introduction](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/d737ff164c6b4d6e580d5ba6e95c54ac604f7ea4/class_1-Introduction) | Active methodology | – |
 | 2–3   | [Statistical Review](https://github.com/Quantum-Software-Development/2-3-DataMining_Statistical_Review) | Active methodology | Python |
-| 4     | [Fundamentals of Data Mining](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python |
+| 4     | [Data Mining - Concepts - Exploratory Analysis](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python |
 | 5   | [Data Cleaning - Preparation - Anomalies (Outliers)](https://github.com/Quantum-Software-Development/5-DataMining_DataCleaning_Preparation_Anomalies_Outlier) | Active methodology | Python |
 | 6     | [Data Mining - Pre Processing](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing) | Active methodology | Python |
 | 7     | Predictive analysis | Active methodology | Python |
@@ -665,7 +665,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-## III - [class_3 - Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_3%20-%20Stats%20Review)
+## III - [class_3- Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_3%20-%20Stats%20Review)
 
 <br>
 
@@ -679,7 +679,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 
 
-## IV - [class_4]()
+## IV - [class_4- Data Mining - Concepts - Exploratory Analysis]()
 
 <br>
 
@@ -693,7 +693,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-## V - [class_5- DataCleaning - Preparation - Anomalies(Outliers)]()
+## V - [class_5- Data Cleaning - Preparation - Anomalies(Outliers)]()
 
 <br>
 
@@ -706,7 +706,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-## VI - [class_6- DataMining Pre Processing]()
+## VI - [class_6- Data Mining - Pre Processing]()
 
 <br>
 
@@ -731,6 +731,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 > [Access]()  Class_7
 >
 > ⚠️ Coming Soon
+> 
 
 
 
