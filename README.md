@@ -173,7 +173,7 @@ Enable students to **plan, conduct, and complete a research project** applying k
 | 2–3   | [Statistical Review](https://github.com/Quantum-Software-Development/2-3-DataMining_Statistical_Review) | Active methodology | Python |
 | 4     | [Fundamentals of Data Mining](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python |
 | 5   | [Data Cleaning - Preparation - Anomalies (Outliers)](https://github.com/Quantum-Software-Development/5-DataMining_DataCleaning_Preparation_Anomalies_Outlier) | Active methodology | Python |
-| 6     | [Fundamentals of Data Mining - Pre Processing](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing) | Active methodology | Python |
+| 6     | [Data Mining - Pre Processing](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing) | Active methodology | Python |
 | 7     | Predictive analysis | Active methodology | Python |
 | 8, 10 | Clustering techniques | Active methodology | Python |
 | 9     |  **P1 Exam** | Written (Individual) | – |
