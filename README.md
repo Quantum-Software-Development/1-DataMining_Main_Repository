@@ -175,9 +175,10 @@ Statistic Review - Stats Measures - Mean - Median - Mode - Variance]()
 | 4     | [Data Mining - Concepts - Exploratory Analysis](https://github.com/Quantum-Software-Development/4-DataMining_Concepts_ExploratoryAnalysis) | Active methodology | Python - R |
 | 5   | [Data Cleaning - Preparation - Anomalies (Outliers)](https://github.com/Quantum-Software-Development/5-DataMining_DataCleaning_Preparation_Anomalies_Outlier) | Active methodology | Python |
 | 6     | [Data Mining - Pre Processing](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing) | Active methodology | Python |
-| 7     | Predictive analysis | Active methodology | Python |
-| 8, 10 | Clustering techniques | Active methodology | Python |
-| 9     |  **P1 Exam** | Written (Individual) | – |
+| 7     | [Predictive analysis](https://github.com/Quantum-Software-Development/7-DataMining_XXX) | Active methodology | Python |
+| 8     | Clustering techniques | Active methodology | Python |
+|  9    | Clustering techniques | Active methodology | Python |
+| 10    |  **P1 Exam** | Written (Individual) | – |
 | 11    | K-Means algorithm | Active methodology | Python |
 | 12    | Affinity Propagation | Active methodology | Python |
 | 13    | Mean-Shift algorithm | Active methodology | Python |
