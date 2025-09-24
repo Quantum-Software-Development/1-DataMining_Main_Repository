@@ -178,7 +178,7 @@ https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniqu
 | 5   | [Data Cleaning - Preparation - Anomalies (Outliers)](https://github.com/Quantum-Software-Development/5-DataMining_DataCleaning_Preparation_Anomalies_Outlier) | Active methodology | Python |
 | 6     | [Data Mining - Pre Processing](https://github.com/Quantum-Software-Development/6-DataMining_Pre-Processing) | Active methodology | Python |
 | 7     | [Regression Techniques with Data Integration](https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniques-Data-Integration) | Active methodology | Python |
-| 8     | [Predictive analysis]() | Active methodology | Python |
+| 8     | [Predictive  K-Means Clustering  Data and Figures Analysis](https://github.com/Quantum-Software-Development/8-DataMining-KMeans-Non-Hierarchical-Clustering) | Active methodology | Python |
 | 9     | Clustering techniques | Active methodology | Python |
 | 10    | Clustering techniques | Active methodology | Python |
 | 11    |  **P1 Exam** | Written (Individual) | – |
