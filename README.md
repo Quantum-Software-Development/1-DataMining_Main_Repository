@@ -180,7 +180,7 @@ https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniqu
 | 7     | [Regression Techniques with Data Integration](https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniques-Data-Integration) | Active methodology | Python |
 | 8     | [Predictive  K-Means Clustering  Data and Figures Analysis](https://github.com/Quantum-Software-Development/8-DataMining-KMeans-Non-Hierarchical-Clustering) | Active methodology | Python |
 | 9     | [K-Means Clustering Presentation](https://github.com/Quantum-Software-Development/9-DataMining--K-Means_Clustering_Presentation) | Active methodology | Python |
-| 10    | Clustering techniques | Active methodology | Python |
+| 10    | [Clustering Mean Shift](https://github.com/Quantum-Software-Development/10-DataMining_MeanShift) | Active methodology | Python |
 | 11    |  **P1 Exam** | Written (Individual) | – |
 | 12    | K-Means algorithm | Active methodology | Python |
 | 14    | Affinity Propagation | Active methodology | Python |
