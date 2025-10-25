@@ -181,7 +181,7 @@ https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniqu
 | 8     | [Predictive  K-Means Clustering  Data and Figures Analysis](https://github.com/Quantum-Software-Development/8-DataMining-KMeans-Non-Hierarchical-Clustering) | Active methodology | Python |
 | 9     | [* Project 1 – K-Means Clustering Repository Presentation](https://github.com/Quantum-Software-Development/9-DataMining_Project_1_K-Means_Clustering_Presentation/edit/main/README.md) | Active methodology | Python |
 | 10    | [Clustering Mean Shift](https://github.com/Quantum-Software-Development/10-DataMining_MeanShift) | Active methodology | Python |
-| 11    | [Affinity Propagation]() | Active methodology  | Python |
+| 11    | [Affinity Propagation](https://github.com/Quantum-Software-Development/11-DataMining_Affinity_Propagation_Algorithm) | Active methodology  | Python |
 | 12    | [* Project 2 – Clustering Algorithms Exploration and Comparison](https://github.com/Quantum-Software-Development/12-DataMining_Project_2_-Clustering_Algorithms-_Exploration_and_Comparison-) | Active methodology | Python |
 | 14    | Affinity Propagation | Active methodology | Python |
 | 14    | Mean-Shift algorithm | Active methodology | Python |
