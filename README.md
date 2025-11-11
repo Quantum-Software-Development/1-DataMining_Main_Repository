@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
    - I - [class 1 - Intoductioon and Assessment](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a98512aa9dc2525446a3ffb236d06cbfb16d1f43/class_1-Introduction)
    - II - [class_2 - Introduction - Data Mining With Python](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a98512aa9dc2525446a3ffb236d06cbfb16d1f43/class_2%20-%20Introduction%20-%20Data%20Mining%20With%20Python)
    - III - [class_3 - Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a98512aa9dc2525446a3ffb236d06cbfb16d1f43/class_3%20-%20Stats%20Review)
-   - IV - [Data Cleaning by Zara Amim]()
+   - IV - [Data Cleaning by Zara Amini](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/blob/cb4075948c0ae9f90ead385d620147daf0641f7c/Data%20Cleaning%20by%20Zahra%20Amini%20.pdf)
 2. [Objectives](#objectives)
 3. [Syllabus](#syllabus)
 4. [Weekly Schedule](#weekly-schedule)
