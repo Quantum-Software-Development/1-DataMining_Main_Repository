@@ -722,8 +722,6 @@ Visualizations: Histograms, bar plots, and time series chart.
 
 
 
-
-
 <br><br>
 
 
@@ -741,6 +739,18 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
+## VIII - [lass_8 - KMeans_NonHierarchical_Clustering](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/tree/cd4d463e1745f2778db4d69e7faade4bfbc00c05/class_8-KMeans_NonHierarchical_Clustering)
+
+<br>
+
+> [!TIP]
+> 
+> [Access]()  Class_7
+>
+> ⚠️ Coming Soon
+> 
+
+<br><br>
 
 
 
