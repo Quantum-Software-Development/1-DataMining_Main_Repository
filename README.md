@@ -727,7 +727,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-## VII - [class_7- XXXXXX]()
+## VII - [class_7- Normalization](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/tree/b555158e64f626fda67229fcc80bff665090c876/class_7-Normalization_Code)
 
 <br>
 
@@ -738,7 +738,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 > ⚠️ Coming Soon
 > 
 
-
+<br><br>
 
 
 
