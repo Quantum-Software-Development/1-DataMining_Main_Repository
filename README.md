@@ -739,18 +739,44 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-## VIII - [lass_8 - KMeans_NonHierarchical_Clustering](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/tree/cd4d463e1745f2778db4d69e7faade4bfbc00c05/class_8-KMeans_NonHierarchical_Clustering)
+## VIII - [class_8 - KMeans_NonHierarchical_Clustering](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/tree/cd4d463e1745f2778db4d69e7faade4bfbc00c05/class_8-KMeans_NonHierarchical_Clustering)
 
 <br>
 
 > [!TIP]
 > 
-> [Access]()  Class_7
+> [Access](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/tree/cd4d463e1745f2778db4d69e7faade4bfbc00c05/class_8-KMeans_NonHierarchical_Clustering)   Class_8 - KMeans_NonHierarchical_Clustering
+
 >
 > ⚠️ Coming Soon
 > 
 
 <br><br>
+
+
+
+## IX - [lass_8 - KMeans_NonHierarchical_Clustering](https://github.com/Quantum-Software-Development/1-DataMining_Main_Repository/tree/cd4d463e1745f2778db4d69e7faade4bfbc00c05/class_8-KMeans_NonHierarchical_Clustering)
+
+<br>
+
+> [!TIP]
+> 
+> [Access]()  Class_8
+>
+> ⚠️ Coming Soon
+> 
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 
