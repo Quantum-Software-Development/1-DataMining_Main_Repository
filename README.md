@@ -185,7 +185,7 @@ https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniqu
 | 11    | [Affinity Propagation](https://github.com/Quantum-Software-Development/11-DataMining_Affinity_Propagation_Algorithm) | Active methodology  | Python |
 | 12    | [* Project 2 – Clustering Algorithms Exploration and Comparison](https://github.com/Quantum-Software-Development/12-DataMining_Project_2_-Clustering_Algorithms-_Exploration_and_Comparison-) | Active methodology | Python |
 | 13    | [Principal Component Analysis (PCA) and Isolation Forest Algorithms](https://github.com/Quantum-Software-Development/13-DataMining_PCA_IsolationForest-Guide) | Active methodology | Python |
-| 14    | [DBSCAN](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN) | Active methodology | Python |
+| 14    | [DBSCAN and Spectral Clustering](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN_and_Spectral-Clustering-) | Active methodology | Python |
 | 15    | Principal Component Analysis (PCA) | Active methodology | Python |
 | 16    | Dictionary Learning | Active methodology | Python |
 | 17    | **P2 Exam** | Written (Individual) | – |
