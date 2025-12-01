@@ -187,7 +187,7 @@ https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniqu
 | 13    | [Principal Component Analysis (PCA) and Isolation Forest Algorithms](https://github.com/Quantum-Software-Development/13-DataMining_PCA_IsolationForest-Guide) | Active methodology | Python |
 | 14    | [DBSCAN and Spectral Clustering](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN_and_Spectral-Clustering) | Active methodology | Python |
 | 15    | [* Project 3 – Clustering Algorithms Exploration and Comparison- K-Means - Mean Shift - - Dbscan](https://github.com/Quantum-Software-Development/15-DataMining_Project_3_-Clustering_Comparison_KMeans_MeanShift_DBSCAN) | Active methodology | Python |
-| 16    | Dictionary Learning | Active methodology | Python |
+| 16    | [Dictionary-Based Column Grouping](https://github.com/Quantum-Software-Development/16-DataMining_dictionary-grouping-pandas) | Active methodology | Python |
 | 17    | **P2 Exam** | Written (Individual) | – |
 | 18    | **P3 Exam & Grade Closure** | Written (Individual) | – |
 | 19     | Final grade submission | – | – |
