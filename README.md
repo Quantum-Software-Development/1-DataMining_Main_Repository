@@ -79,11 +79,7 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 > [!TIP]
 > 
->  This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
->
-> ### ☞ **Access Data Mining [Main Repository](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)**
-> 
->  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
+> * **If you’d like to explore the Full Statistics Materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024). <br>
 >
 >
 
