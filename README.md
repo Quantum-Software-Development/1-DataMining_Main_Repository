@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 > [!TIP]
 > 
-> * **If you’d like to explore the Full Statistics Materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024). <br>
+> * #### **If you’d like to explore the Full Statistics Materials from the 1st year (not only the review), you can visit the complete repository** [**Here**](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024). <br>
 >
 >
 
